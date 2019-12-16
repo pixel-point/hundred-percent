@@ -1,0 +1,29 @@
+.container {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #297eff;
+  text-align: center;
+  background: #fff;
+  transition: 0.5s ease all;
+  text-transform: uppercase;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.active {
+  background: #297eff;
+  border: 2px solid #297eff;
+  color: #fff;
+}
+.img {
+  zoom: 0.5;
+  object-fit: none; /* Do not scale the image */
+  object-position: top center;
+  width: 100%;
+}
