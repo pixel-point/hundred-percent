@@ -22,8 +22,6 @@
   color: #fff;
 }
 .img {
-  zoom: 0.5;
-  object-fit: none; /* Do not scale the image */
-  object-position: top center;
-  width: 100%;
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
