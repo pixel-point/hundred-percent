@@ -33,7 +33,7 @@
     "eslint-plugin-react-hooks": "^1.7.0",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-sass": "^2.1.26",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.19.1"
   },
   "keywords": [
